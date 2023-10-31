@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Resume/static/css/main.634fd8fa.css",
+    "main.js": "/Resume/static/js/main.ea8404c7.js",
+    "static/media/Summarizer.png": "/Resume/static/media/Summarizer.ea1a5e2b9004fcbde912.png",
+    "static/media/Joba.jpg": "/Resume/static/media/Joba.862bb446604254799215.jpg",
+    "static/media/Nike.png": "/Resume/static/media/Nike.7e2faf88df6105868fc8.png",
+    "static/media/tim2.png": "/Resume/static/media/tim2.a221d17c61ecde41e784.png",
+    "static/media/react.png": "/Resume/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/1.jpg": "/Resume/static/media/1.ce958e6afe1487f39153.jpg",
+    "static/media/Ai.png": "/Resume/static/media/Ai.685c5ef96c2ba77dc9b3.png",
+    "static/media/github.png": "/Resume/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/Resume/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/Resume/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/Resume/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/Resume/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/Resume/index.html",
+    "main.634fd8fa.css.map": "/Resume/static/css/main.634fd8fa.css.map",
+    "main.ea8404c7.js.map": "/Resume/static/js/main.ea8404c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.634fd8fa.css",
+    "static/js/main.ea8404c7.js"
+  ]
+}
