@@ -3,6 +3,7 @@ import Ai from '../assets/projects/Ai.png'
 import Nike from '../assets/projects/Nike.png'
 import Summary from '../assets/projects/Summarizer.png'
 import Bank from '../assets/projects/bank.png'
+import Estate from '../assets/projects/q1.png'
 
 export const data=[
     {
@@ -38,6 +39,13 @@ export const data=[
         name:"Zenth Bank App mini clone",
         image:Bank,
         github:"https://github.com/githTimi/ZenithBank-MiniClone",
+        
+    },
+    {
+        id:6,
+        name:"Real Estate Web App",
+        image:Estate,
+        github:"https://github.com/githTimi/Real-Estate",
         
     },
 
